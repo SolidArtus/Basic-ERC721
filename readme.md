@@ -1,6 +1,8 @@
 Ecrire un Smart-Contract pour créer ses premiers NFTs
 =====================================================
 
+L'article complet et reformatté est disponibles à [cette addresse](https://medium.com/@asertu3/ecrire-un-smart-contract-pour-cr%C3%A9er-ses-premiers-nfts-eb0b364b8954)Création de projet ERC-721 sur Medium : 
+
 Vous n’avez pas pu louper la folie des NFTs qui a agité investisseurs et médias depuis 2021. Bien qu’existant depuis quelques années, le confinement nous a laissé sur les bras des revenus impossible à dépenser dans nos occupations habituelles, et beaucoup se sont tournés vers des actifs intangibles : des titres de propriétés d’objets numériques garantis par la blockchain, les fameux NFTs.
 
 Ce tutoriel va vous aider à comprendre comment ils fonctionnent d’un point de vue technique, en créant votre première collection. Il s’agit d’un Smart-Contrat, qui possède des attributs permettant de tracer dans un registre l’appartenance à des objets prédéfinis.
